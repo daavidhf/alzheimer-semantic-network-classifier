@@ -26,13 +26,13 @@ I built the entire unsupervised branch of the pipeline: (1) constructed per-subj
 
 ## Repository layout
 
-`Notebooks/A3_GroupA3N_Notebook.ipynb`: main Python workflow (feature extraction + modeling)
-`Statistics/A3_GroupA3N_ResultsVisualization.qmd`: R/Quarto visualization and statistical testing
-`Results/Tables/`: generated metric and significance tables
-`Results/Figures/`: generated figures
-`A3_GroupA3N_Report.pdf`: final project report
-`Documentation/Original_Research_Article.pdf`: source paper used as methodological reference
-`Datasets/Networks/`: preprocessed semantic network files (.pickle)
+- `Notebooks/A3_GroupA3N_Notebook.ipynb`: main Python workflow (feature extraction + modeling)
+- `Statistics/A3_GroupA3N_ResultsVisualization.qmd`: R/Quarto visualization and statistical testing
+- `Results/Tables/`: generated metric and significance tables
+- `Results/Figures/`: generated figures
+- `A3_GroupA3N_Report.pdf`: final project report
+- `Documentation/Original_Research_Article.pdf`: source paper used as methodological reference
+- `Datasets/Networks/`: preprocessed semantic network files (`.pickle`)
 
 ## Tech stack
 
